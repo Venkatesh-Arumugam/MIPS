@@ -1,0 +1,1 @@
+Design and Implementation of 32 bit MIPS processor that can execute memory reference instructions, arithmetic instructions, logical instructions and jump instructions. The processor is designed using pipelining technique in Verilog HDL to improve efficiency.
